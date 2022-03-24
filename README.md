@@ -13,3 +13,5 @@ Want more? go check the [IOCCC](https://www.ioccc.org/) or even worse, the [Unde
 * https://en.wikipedia.org/wiki/Digraphs_and_trigraphs
 * https://stackoverflow.com/questions/1642028/what-is-the-operator-in-c-c
 * https://en.wikipedia.org/wiki/Duff%27s_device
+* https://en.wikipedia.org/wiki/Fast_inverse_square_root
+* https://alf.nu/EvilC
